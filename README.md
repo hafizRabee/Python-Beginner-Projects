@@ -15,6 +15,7 @@ This repository contains the basic Python projects I created while learning Pyth
 -🔄 Unit Converter
 -🔑 PIN Validator
 -🎲 Dice Roller
+-📅 Leap Year Checker
 
 ## 🎯 Purpose
 
