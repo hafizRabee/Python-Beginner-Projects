@@ -7,11 +7,14 @@ This repository contains the basic Python projects I created while learning Pyth
 ## 📂 Basic Projects
 
 - 🎯 Number Guessing Game
-- 🔐 Password Generator
-- ✂️ Rock Paper Scissors Game
-- 🐍 Snake Water Gun Game
-- 🧮 Calculator
-- 👋 Hello World
+-🔐 Password Generator
+-✂️ Rock Paper Scissors Game
+-🐍 Snake Water Gun Game
+-🧮 Calculator
+-👋 Hello World
+-🔄 Unit Converter
+-🔑 PIN Validator
+-🎲 Dice Roller
 
 ## 🎯 Purpose
 
