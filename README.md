@@ -17,6 +17,7 @@ This repository contains the basic Python projects I created while learning Pyth
 -🎲 Dice Roller
 -📅 Leap Year Checker
 -🌡️ Temperature Converter
+-🎂 Age Calculator
 
 ## 🎯 Purpose
 
