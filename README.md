@@ -18,6 +18,7 @@ This repository contains the basic Python projects I created while learning Pyth
 -📅 Leap Year Checker
 -🌡️ Temperature Converter
 -🎂 Age Calculator
+-⚖️ BMI Calculator 🧮
 
 ## 🎯 Purpose
 
