@@ -19,6 +19,7 @@ This repository contains the basic Python projects I created while learning Pyth
 -🌡️ Temperature Converter
 -🎂 Age Calculator
 -⚖️ BMI Calculator 🧮
+-🎨 Random Color Generator 🌈
 
 ## 🎯 Purpose
 
