@@ -21,6 +21,7 @@ This repository contains the basic Python projects I created while learning Pyth
 -⚖️ BMI Calculator 🧮
 -🎨 Random Color Generator 🌈
 -🗣️ Vowel Counter
+- 🔢 Multiplication Table Generator
 
 ## 🎯 Purpose
 
