@@ -20,6 +20,7 @@ This repository contains the basic Python projects I created while learning Pyth
 -🎂 Age Calculator
 -⚖️ BMI Calculator 🧮
 -🎨 Random Color Generator 🌈
+-🗣️ Vowel Counter
 
 ## 🎯 Purpose
 
