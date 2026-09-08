@@ -22,8 +22,8 @@ This repository contains the basic Python projects I created while learning Pyth
 -🎨 Random Color Generator 🌈
 -🗣️ Vowel Counter
 - 🔢 Multiplication Table Generator
-- -🔊 sentence speaker
-- -🤖 jokespeaker
+- 🔊 sentence speaker
+- 🤖 jokespeaker
 
 ## 🎯 Purpose
 
