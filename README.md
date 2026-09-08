@@ -23,6 +23,7 @@ This repository contains the basic Python projects I created while learning Pyth
 -🗣️ Vowel Counter
 - 🔢 Multiplication Table Generator
 - -🔊 sentence speaker
+- -🤖 jokespeaker
 
 ## 🎯 Purpose
 
