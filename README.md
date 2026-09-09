@@ -24,6 +24,7 @@ This repository contains the basic Python projects I created while learning Pyth
 - 🔢 Multiplication Table Generator
 - 🔊 sentence speaker
 - 🤖 jokespeaker
+- 🌡️ Temperature Converter
 
 ## 🎯 Purpose
 
