@@ -25,6 +25,7 @@ This repository contains the basic Python projects I created while learning Pyth
 - 🔊 sentence speaker
 - 🤖 jokespeaker
 - 🌡️ Temperature Converter
+- 🔄 Palindrome Checker
 
 ## 🎯 Purpose
 
