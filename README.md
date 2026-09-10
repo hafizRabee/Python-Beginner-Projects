@@ -26,6 +26,7 @@ This repository contains the basic Python projects I created while learning Pyth
 - 🤖 jokespeaker
 - 🌡️ Temperature Converter
 - 🔄 Palindrome Checker
+- 🧮 Factorial Calculator
 
 ## 🎯 Purpose
 
