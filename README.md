@@ -27,6 +27,7 @@ This repository contains the basic Python projects I created while learning Pyth
 - 🌡️ Temperature Converter
 - 🔄 Palindrome Checker
 - 🧮 Factorial Calculator
+- Prime Checker
 
 ## 🎯 Purpose
 
