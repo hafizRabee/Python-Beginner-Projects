@@ -28,6 +28,7 @@ This repository contains the basic Python projects I created while learning Pyth
 - 🔄 Palindrome Checker
 - 🧮 Factorial Calculator
 - Prime Checker
+- Armstrong Checker
 
 ## 🎯 Purpose
 
