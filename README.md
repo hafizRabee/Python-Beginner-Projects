@@ -6,29 +6,30 @@ This repository contains the basic Python projects I created while learning Pyth
 
 ## 📂 Basic Projects
 
-- 🎯 Number Guessing Game
--🔐 Password Generator
--✂️ Rock Paper Scissors Game
--🐍 Snake Water Gun Game
--🧮 Calculator
--👋 Hello World
--🔄 Unit Converter
--🔑 PIN Validator
--🎲 Dice Roller
--📅 Leap Year Checker
--🌡️ Temperature Converter
--🎂 Age Calculator
--⚖️ BMI Calculator 🧮
--🎨 Random Color Generator 🌈
--🗣️ Vowel Counter
-- 🔢 Multiplication Table Generator
-- 🔊 sentence speaker
-- 🤖 jokespeaker
-- 🌡️ Temperature Converter
-- 🔄 Palindrome Checker
-- 🧮 Factorial Calculator
+- Number Guessing Game
+-Password Generator
+-Rock Paper Scissors Game
+-Snake Water Gun Game
+-Calculator
+-Hello World
+-Unit Converter
+-PIN Validator
+-Dice Roller
+-Leap Year Checker
+-Temperature Converter
+-Age Calculator
+-BMI Calculator 
+-Random Color Generator 
+-Vowel Counter
+- Multiplication Table Generator
+- sentence speaker
+- jokespeaker
+- Temperature Converter
+- Palindrome Checker
+- Factorial Calculator
 - Prime Checker
 - Armstrong Checker
+- Even and Odd checker
 
 ## 🎯 Purpose
 
