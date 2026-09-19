@@ -30,7 +30,7 @@ This repository contains the basic Python projects I created while learning Pyth
 - Prime Checker
 - Armstrong Checker
 - Even and Odd checker
-
+-permutation & combination
 ## 🎯 Purpose
 
 The purpose of this repository is to practice Python programming and improve my problem-solving skills by building small projects.
