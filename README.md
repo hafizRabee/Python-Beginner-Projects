@@ -32,6 +32,7 @@ This repository contains the basic Python projects I created while learning Pyth
 - Even and Odd checker
 -permutation & combination
 -Quadratic Equation Solver
+-GCD & LCM Calculator
 ## 🎯 Purpose
 
 The purpose of this repository is to practice Python programming and improve my problem-solving skills by building small projects.
