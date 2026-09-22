@@ -6,33 +6,33 @@ This repository contains the basic Python projects I created while learning Pyth
 
 ## 📂 Basic Projects
 
-- Number Guessing Game
--Password Generator
--Rock Paper Scissors Game
--Snake Water Gun Game
--Calculator
--Hello World
--Unit Converter
--PIN Validator
--Dice Roller
--Leap Year Checker
--Temperature Converter
--Age Calculator
--BMI Calculator 
--Random Color Generator 
--Vowel Counter
-- Multiplication Table Generator
-- sentence speaker
-- jokespeaker
-- Temperature Converter
-- Palindrome Checker
-- Factorial Calculator
-- Prime Checker
-- Armstrong Checker
-- Even and Odd checker
--permutation & combination
--Quadratic Equation Solver
--GCD & LCM Calculator
+1.Number Guessing Game
+2.Password Generator
+3.Rock Paper Scissors Game
+4.Snake Water Gun Game
+5.Calculator
+6.Hello World
+7.Unit Converter
+8.PIN Validator
+9.Dice Roller
+10.Leap Year Checker
+11.Temperature Converter
+12.Age Calculator
+13.BMI Calculator 
+14.Random Color Generator 
+15.Vowel Counter
+16.Multiplication Table Generator
+17.sentence speaker
+18.jokespeaker
+19.emperature Converter
+20.alindrome Checker
+21.Factorial Calculator
+22.Prime Checker
+23.Armstrong Checker
+24.Even and Odd checker
+25.permutation & combination
+26.uadratic Equation Solver
+27.GCD & LCM Calculator
 ## 🎯 Purpose
 
 The purpose of this repository is to practice Python programming and improve my problem-solving skills by building small projects.
