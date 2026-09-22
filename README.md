@@ -33,6 +33,7 @@ This repository contains the basic Python projects I created while learning Pyth
 25.permutation & combination
 26.uadratic Equation Solver
 27.GCD & LCM Calculator
+28.Student Grade Calculator
 ## 🎯 Purpose
 
 The purpose of this repository is to practice Python programming and improve my problem-solving skills by building small projects.
