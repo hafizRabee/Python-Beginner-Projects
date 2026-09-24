@@ -35,6 +35,7 @@ This repository contains the basic Python projects I created while learning Pyth
 27.GCD & LCM Calculator
 28.Student Grade Calculator
 29.Time Converter
+30.Anagram Checker
 ## 🎯 Purpose
 
 The purpose of this repository is to practice Python programming and improve my problem-solving skills by building small projects.
