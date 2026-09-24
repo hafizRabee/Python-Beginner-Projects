@@ -25,7 +25,7 @@ This repository contains the basic Python projects I created while learning Pyth
 17.sentence speaker
 18.jokespeaker
 19.emperature Converter
-20.alindrome Checker
+20.Palindrome Checker
 21.Factorial Calculator
 22.Prime Checker
 23.Armstrong Checker
