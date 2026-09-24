@@ -24,18 +24,17 @@ This repository contains the basic Python projects I created while learning Pyth
 16.Multiplication Table Generator
 17.sentence speaker
 18.jokespeaker
-19.emperature Converter
-20.Palindrome Checker
-21.Factorial Calculator
-22.Prime Checker
-23.Armstrong Checker
-24.Even and Odd checker
-25.permutation & combination
-26.uadratic Equation Solver
-27.GCD & LCM Calculator
-28.Student Grade Calculator
-29.Time Converter
-30.Anagram Checker
+19.Palindrome Checker
+20.Factorial Calculator
+21.Prime Checker
+22.Armstrong Checker
+23.Even and Odd checker
+24.permutation & combination
+25.uadratic Equation Solver
+26.GCD & LCM Calculator
+27.Student Grade Calculator
+28.Time Converter
+29.Anagram Checker
 ## 🎯 Purpose
 
 The purpose of this repository is to practice Python programming and improve my problem-solving skills by building small projects.
