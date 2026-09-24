@@ -30,7 +30,7 @@ This repository contains the basic Python projects I created while learning Pyth
 22.Armstrong Checker
 23.Even and Odd checker
 24.permutation & combination
-25.uadratic Equation Solver
+25.Quadratic Equation Solver
 26.GCD & LCM Calculator
 27.Student Grade Calculator
 28.Time Converter
