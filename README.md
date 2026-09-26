@@ -36,6 +36,7 @@ This repository contains the basic Python projects I created while learning Pyth
 28.Time Converter
 29.Anagram Checker
 30.PKR Currency Converter
+31.Fibonachi Sequence Generator
 ## 🎯 Purpose
 
 The purpose of this repository is to practice Python programming and improve my problem-solving skills by building small projects.
