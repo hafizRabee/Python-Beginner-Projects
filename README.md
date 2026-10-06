@@ -39,6 +39,7 @@ This repository contains the basic Python projects I created while learning Pyth
 31.Fibonachi Sequence Generator
 32.Binary To Decimal
 33.Email Slicer
+34.ChatBot
 ## 🎯 Purpose
 
 The purpose of this repository is to practice Python programming and improve my problem-solving skills by building small projects.
