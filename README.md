@@ -41,6 +41,7 @@ This repository contains the basic Python projects I created while learning Pyth
 33.Email Slicer
 34.ChatBot
 35.Word Counter
+36.Decimal to Binary
 ## 🎯 Purpose
 
 The purpose of this repository is to practice Python programming and improve my problem-solving skills by building small projects.
