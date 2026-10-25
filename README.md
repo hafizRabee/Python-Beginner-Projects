@@ -42,6 +42,7 @@ This repository contains the basic Python projects I created while learning Pyth
 34.ChatBot
 35.Word Counter
 36.Decimal to Binary
+37.simple intrest
 ## 🎯 Purpose
 
 The purpose of this repository is to practice Python programming and improve my problem-solving skills by building small projects.
